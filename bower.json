@@ -1,0 +1,14 @@
+{
+  "name": "spring-boot-angularjs-admin",
+  "authors": [
+    "Victor SALAUN"
+  ],
+  "description": "spring-boot-angularjs-admin",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-resource": "^1.5.8",
+    "bootstrap-css-only": "^3.3.7",
+    "lodash": "^4.16.2"
+  }
+}
